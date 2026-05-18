@@ -1,33 +1,54 @@
-# Master Thesis
-This repository contains all code used throughout the master thesis.
+# Master Thesis Repository
 
-The repository is structured according to the different sections of the thesis, such that each folder contains the scripts related to a specific part of the project. This makes it easier to reproduce the results, figures, simulations, estimations, and forecasts presented throughout the thesis.
+This repository contains all code used in the master thesis:
 
-## Repository Structure
+> Polynomiel Term Structure Model
 
-The repository includes code for the following sections:
+The repository is organized according to the structure of the thesis to ensure reproducibility of all empirical results, figures, simulations, estimations, and forecasting exercises.
 
-### 1. Data Handling
+---
 
-### 2. Simulation Study
+# Repository Structure
 
-### 3. Results and Model Optimization
+## 1. Data Handling
+Code related to:
+- Data cleaning
+- Construction of OIS discount curves
+- EURIBOR swap data processing
+- Interpolation and smoothing procedures
+- Data preparation for estimation
 
-#### 3.1 Baseline Models
-Code for the baseline Vasicek and CIR model specifications.
+---
 
-#### 3.2 Initial Model
-Code for the initial multicurve model setup and estimation.
+## 2. Simulation Study
+Code related to:
+- Simulation of all the models
 
-#### 3.3 Optimizing the Model
-Code for the 5 Optimized Models, includning UKF.
+## 3. Results and Model Optimization
 
-#### 3.4 Volatility Comparison
-Code used for volatility analysis and comparison across models.
+### 3.1 Baseline Models
+Implementation and estimation of the baseline model specifications.
 
-#### 3.5 Swap Pricing and Forecasting
+### 3.2 Initial Model
+Code for the initial multicurve model setup.
 
+### 3.3 Optimizing the Model
+- Optimization 1
+- Optimization 2
+- Optimization 3
+- Optimization 4
+- Optimization 5
+- Unscented Kalman Filter extension
 
-## Purpose
+### 3.4 Volatility Comparison
+Code for volatility analysis and comparison across model specifications.
 
-The purpose of this repository is to ensure reproducibility of all empirical results and analyses presented in the thesis.
+### 3.5 Swap Pricing and Forecasting
+Code related to:
+- Rolling window estimation
+
+---
+
+# Reproducibility
+
+All code has been structured to reproduce the empirical results and figures presented throughout the thesis.
