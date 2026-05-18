@@ -20,24 +20,7 @@ Code for the baseline Vasicek and CIR model specifications.
 Code for the initial multicurve model setup and estimation.
 
 #### 3.3 Optimizing the Model
-
-##### 3.3.1 Optimization 1
-Code for the first model optimization.
-
-##### 3.3.2 Optimization 2
-Code for the second model optimization.
-
-##### 3.3.3 Optimization 3
-Code for the third model optimization.
-
-##### 3.3.4 Optimization 4
-Code for the fourth model optimization.
-
-##### 3.3.5 Optimization 5
-Code for the fifth model optimization.
-
-##### 3.3.6 Unscented Kalman Filter
-Code related to the UKF implementation and estimation results.
+Code for the 5 Optimized Models, includning UKF.
 
 #### 3.4 Volatility Comparison
 Code used for volatility analysis and comparison across models.
