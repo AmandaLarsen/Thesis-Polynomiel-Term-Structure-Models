@@ -7,11 +7,11 @@ The repository is organized according to the structure of the thesis to ensure r
 ---
 
 #Repository Structure
-├── Data/
-├── Datahandling/
-├── Forecasting/
-├── Modeller with Simulations and Plots/
-├── Volatility/
+- Data
+- Datahandling
+- Forecasting
+- Modeller with Simulations and Plots
+- Volatility
 
 #Notes
 
