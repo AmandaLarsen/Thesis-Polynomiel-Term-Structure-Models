@@ -2,7 +2,7 @@
 
 This repository contains all code used in the master thesis: Polynomiel Term Structure Model
 
-The repository is organized according to the structure of the thesis to ensure reproducibility of all empirical results, figures, simulations, estimations, and forecasting exercises.
+The repository is organized according to the structure of the thesis. The attached code are the empirical results, figures, simulations, estimations, and forecasting exercises used throughout the thesis.
 
 ---
 
